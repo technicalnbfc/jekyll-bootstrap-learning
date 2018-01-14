@@ -8893,5 +8893,31 @@ label {
   line-height: 1.5em;
   vertical-align: -15%; }
 
+body {
+  font-weight: 400; }
+
+b {
+  font-weight: 700; }
+
 .fa-8x {
   font-size: 8em; }
+
+.top-buffer {
+  margin-top: 20px; }
+
+.bottom-buffer {
+  margin-bottom: 20px; }
+
+.logo-60px {
+  height: 60px; }
+
+.logo-80px {
+  height: 80px; }
+
+.jumbotron {
+  border-radius: 0px;
+  height: 20rem;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/jumbotron_06.jpg"); }
